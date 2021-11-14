@@ -36,3 +36,11 @@
 
 **git commit -a -m "commit info"**
 
+## git checkout
+
+*Позволяет перейти к другой версии коммита*
+
+Вернуться в первоначальному состоянию:
+
+**git checkout master**
+
