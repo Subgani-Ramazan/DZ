@@ -24,3 +24,9 @@
 
 **git add .**
 
+## git commit 
+
+*Фиксирует добавленные изменения файлов*
+
+Вызов: 
+**git commit -m "commit info"**
