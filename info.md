@@ -123,3 +123,9 @@ git init
 *git branch -d branch_name
 
 # Справка 
+
+*Вызывает с помошью тега --help. Примеры:*
+
+* git log --help
+
+*git commit --help
