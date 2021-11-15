@@ -118,4 +118,8 @@ git init
 
 # удаление веток
 
+*Команда branch c тегом -d удалит ветку с именем branch_name:*
+
+*git branch -d branch_name
+
 # Справка 
